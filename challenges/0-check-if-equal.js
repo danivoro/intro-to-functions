@@ -1,8 +1,8 @@
 function isEqual(a,b){
    if (a == b){
-console.log(    return true
+      return true
    } else {
-    return false
+      return false
    }
 }
 
